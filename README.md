@@ -1,4 +1,4 @@
-<span style="font-size: larger;">LINUX</span>
+<span style="font-size: 20px;, font-weight:900;">LINUX</span>
 ________________________________________
 
 

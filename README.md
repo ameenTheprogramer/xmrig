@@ -21,12 +21,12 @@ sudo ./xmrig --donate-level 0 -o xmrpool.eu:9999 -u 4881APTxerVEMhPAdA1eQJVCV7L6
 =========================================
 
 
-
-
-
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 # **WINDOWS**

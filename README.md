@@ -43,11 +43,11 @@ cd Downloads/xmrig-6.21.1
 
  
 
- --cpu-priority 5     high priority for cpu
- --no-cuda         **disabled**
- --cuda            **enabled**
- --no-opencl           ''
- --opencl             ''
+ - --cpu-priority 5     high priority for cpu
+ - --no-cuda         **disabled**
+ - --cuda            **enabled**
+ - --no-opencl           ''
+ - --opencl             ''
 
 
 

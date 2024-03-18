@@ -126,3 +126,10 @@ cd xmrig-6.20.0/
 
 
 sudo ./xmrig --donate-level 0 -o xmrpool.eu:9999 -u 48uZ9aYy5gTawovdaM7WxFMBxkKwAdwqiV955tSp9ZfPbzANC9m6XnMhrSTEyQLT8NGiQRgr4Y8LiMtKs3F2yTrnGLqbzzx -k --tls
+
+
+
+
+
+sudo docker run -p 8080:80 dorowu/ubuntu-desktop-lxde-vnc
+

@@ -39,6 +39,7 @@ https://github.com/xmrig/xmrig/releases/download/v6.21.1/xmrig-6.21.1-gcc-win64.
 -  Download xmrig , extract , 
 
 cd Downloads/xmrig-6.21.1
+
  xmrig.exe -o xmrpool.eu:9999 -u 4881APTxerVEMhPAdA1eQJVCV7L6QwTUz2cVSZpKHYbvghawyD5748bDqhmqiXurmq3pYPgtaRtu4WkTaMNQHAk6Q5dA466 -p x  
 
 
